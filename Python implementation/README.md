@@ -1,7 +1,7 @@
 
 
 
-## GloVe: Global Vectors for Word Representation provided by Facebook AI Research!
+## GloVe: Global Vectors for Word Representation by Facebook AI Research!
 
 
 
